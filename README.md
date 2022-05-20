@@ -2,7 +2,7 @@
 Website development project in my second year of university  
 A neon themed korean restaurant website
 
-Members:__
+Members:<br/>
 Frisco Lieyanto <br/>
-Natanael Geraldo Sulaiman__
-Sheren Emanuela__
+Natanael Geraldo Sulaiman <br/>
+Sheren Emanuela <br/>
